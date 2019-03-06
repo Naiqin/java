@@ -3,9 +3,9 @@
 你可以随意下载任何需要的内容；
 内容会不断的更新
 
-### 根据java知识结构来划分：
-
-- ![jvm Java虚拟机](https://github.com/Naiqin/java/blob/master/JVM.png)
+### 根据java知识结构来划分,主要是以xmind思维导图的方式
+**知识要点如下** ：
+- [jvm Java虚拟机](https://github.com/Naiqin/java/blob/master/JVM.png)
 
 
 ```markdown
