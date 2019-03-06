@@ -1,12 +1,12 @@
-## Welcome to GitHub Pages
+## 欢迎来到我的java知识点项目
 
-You can use the [editor on GitHub](https://github.com/Naiqin/java/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+你可以随意下载任何需要的内容；
+内容会不断的更新
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 根据java知识结构来划分：
 
-### Markdown
+- jvm Java虚拟机
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
