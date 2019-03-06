@@ -5,7 +5,7 @@
 
 ### 根据java知识结构来划分：
 
-- [Link](https://github.com/Naiqin/java/jvm)jvm Java虚拟机
+- [jvm Java虚拟机](https://github.com/Naiqin/java/jvm.png)
 
 
 ```markdown
